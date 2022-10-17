@@ -7,9 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>GIT Test Project</h2>
-	<p>한번 더 추가</p>
-	<a href="/views/test01.jsp">페이지 이동</a>
-	<a href="/views/test02.jsp">페이지 이동2</a>
+	<h1>test2페이지 제작 중</h1>
+	<hr>
+	<ul>
+		<li>테스트 2번 제작중</li>
+	</ul>
 </body>
 </html>
