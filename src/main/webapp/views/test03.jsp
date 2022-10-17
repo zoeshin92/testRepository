@@ -13,6 +13,6 @@
 	<a href="#">링크 추가 by 혜규</a>
 	<a href="#">링크 추가 by 혜규2</a>
 	<p>zoe가 또 일햇음ㅠㅠ </p>
-
+	<a href="zoe">링크는 zoe도 추가할 수 있쥐@</a>
 </body>
 </html>
